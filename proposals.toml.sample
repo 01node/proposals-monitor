@@ -1,0 +1,18 @@
+loglevel = "info"
+
+[networks]
+    [networks.terra]
+    voter = "" # The Terra address you want to check if voted
+    lcd = "https://lcd.terra.dev"
+    proposal_link="https://station.terra.money/proposal"
+
+[telegram]
+token = "" # Telegram Bot Token
+chat_id = "" # Telegram chat id
+
+[status]
+# DEPOSIT_PERIOD = 1
+VOTING_PERIOD = 2
+# PASSED = 3
+# REJECTED = 4
+# FAILED = 5
