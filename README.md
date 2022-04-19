@@ -1,8 +1,8 @@
-# Porposal Checker
+# Proposal Checker
 
 This is a functional alpha version!
 
-`poposals.py` is a Python script that scrapes some data from a RPC node to check if a validator has voted or not. It works on most tendermint based chains
+`proposals.py` is a Python script that scrapes some data from a RPC node to check if a validator has voted or not. It works on most tendermint based chains
 
 ## How can I set it up?
 
